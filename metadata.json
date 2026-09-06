@@ -48433,5 +48433,19 @@
                 "login": "droidrzrlover"
             }
         }
+    },
+    "discord-tickets": {
+        "base": "png",
+        "aliases": [],
+        "categories": [
+            "utility"
+        ],
+        "update": {
+            "timestamp": "2026-09-06T13:18:59.665Z",
+            "author": {
+                "id": 288431026,
+                "login": "splendor1952"
+            }
+        }
     }
 }
