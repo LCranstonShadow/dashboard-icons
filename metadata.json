@@ -48485,5 +48485,17 @@
                 "login": "tas50"
             }
         }
+    },
+    "pls-development-tools": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-09-06T13:19:12.379Z",
+            "author": {
+                "id": 1015200,
+                "login": "tas50"
+            }
+        }
     }
 }
