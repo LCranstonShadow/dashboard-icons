@@ -48627,5 +48627,17 @@
                 "login": "tas50"
             }
         }
+    },
+    "pdfforge": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-09-06T13:19:43.721Z",
+            "author": {
+                "id": 1015200,
+                "login": "tas50"
+            }
+        }
     }
 }
