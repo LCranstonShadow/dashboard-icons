@@ -48301,5 +48301,17 @@
                 "login": "tas50"
             }
         }
+    },
+    "froxlor": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-09-06T13:18:30.418Z",
+            "author": {
+                "id": 3875742,
+                "login": "chris922"
+            }
+        }
     }
 }
