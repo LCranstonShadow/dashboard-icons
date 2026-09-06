@@ -48551,5 +48551,17 @@
                 "login": "tas50"
             }
         }
+    },
+    "dunkermotoren": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-09-06T13:19:29.183Z",
+            "author": {
+                "id": 1015200,
+                "login": "tas50"
+            }
+        }
     }
 }
