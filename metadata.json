@@ -20847,16 +20847,18 @@
     },
     "cleanuperr": {
         "base": "svg",
-        "aliases": [
-            "cleanuparr"
-        ],
+        "aliases": [],
         "categories": [],
         "update": {
-            "timestamp": "2025-06-17T17:45:50.317780",
+            "timestamp": "2026-09-06T13:19:02.840Z",
             "author": {
-                "id": 47262177,
-                "login": "6gh"
+                "id": 7443010,
+                "login": "tuvokian"
             }
+        },
+        "colors": {
+            "light": "cleanuperr-light",
+            "dark": "cleanuperr-dark"
         }
     },
     "typo3": {
