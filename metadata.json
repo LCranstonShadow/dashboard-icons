@@ -48563,5 +48563,17 @@
                 "login": "tas50"
             }
         }
+    },
+    "rsa": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-09-06T13:19:31.553Z",
+            "author": {
+                "id": 1015200,
+                "login": "tas50"
+            }
+        }
     }
 }
