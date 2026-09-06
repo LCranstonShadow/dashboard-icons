@@ -48387,5 +48387,21 @@
         "colors": {
             "light": "athenaeus-light"
         }
+    },
+    "nexus-docker": {
+        "base": "png",
+        "aliases": [],
+        "categories": [
+            "monitoring",
+            "tools",
+            "utility"
+        ],
+        "update": {
+            "timestamp": "2026-09-06T13:18:47.732Z",
+            "author": {
+                "id": 103009333,
+                "login": "paulo-roger"
+            }
+        }
     }
 }
