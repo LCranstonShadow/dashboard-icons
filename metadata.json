@@ -4126,14 +4126,17 @@
         }
     },
     "windows-11": {
-        "base": "png",
-        "aliases": [],
+        "base": "svg",
+        "aliases": [
+            "W11",
+            "Microsoft"
+        ],
         "categories": [],
         "update": {
-            "timestamp": "2025-01-07T17:54:03Z",
+            "timestamp": "2026-09-06T13:18:52.485Z",
             "author": {
-                "id": 71191962,
-                "name": "walkxcode"
+                "id": 128638738,
+                "login": "Zolkra"
             }
         }
     },
