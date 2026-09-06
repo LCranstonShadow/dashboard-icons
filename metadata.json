@@ -48360,5 +48360,17 @@
                 "name": "mattbowlby"
             }
         }
+    },
+    "associated-press": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-09-06T13:18:42.578Z",
+            "author": {
+                "id": 82130083,
+                "login": "clschwab216"
+            }
+        }
     }
 }
