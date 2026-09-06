@@ -48509,5 +48509,17 @@
                 "login": "tas50"
             }
         }
+    },
+    "iba": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-09-06T13:19:17.195Z",
+            "author": {
+                "id": 1015200,
+                "login": "tas50"
+            }
+        }
     }
 }
