@@ -48329,5 +48329,24 @@
                 "name": "SoaringBirdie"
             }
         }
+    },
+    "agentgateway": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "network",
+            "cloud",
+            "monitoring"
+        ],
+        "update": {
+            "timestamp": "2026-09-06T13:18:37.466Z",
+            "author": {
+                "id": "ji82gzxdmltdji6",
+                "name": "michaelheyman"
+            }
+        },
+        "colors": {
+            "light": "agentgateway-light"
+        }
     }
 }
