@@ -48575,5 +48575,19 @@
                 "login": "tas50"
             }
         }
+    },
+    "sublime-merge": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "development"
+        ],
+        "update": {
+            "timestamp": "2026-09-06T13:19:34.076Z",
+            "author": {
+                "id": 1015200,
+                "login": "tas50"
+            }
+        }
     }
 }
