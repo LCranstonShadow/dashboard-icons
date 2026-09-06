@@ -48533,5 +48533,17 @@
                 "login": "tas50"
             }
         }
+    },
+    "foxit-icon": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-09-06T13:19:21.967Z",
+            "author": {
+                "id": 1015200,
+                "login": "tas50"
+            }
+        }
     }
 }
