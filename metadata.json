@@ -48651,5 +48651,19 @@
                 "login": "tas50"
             }
         }
+    },
+    "dbgate": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "database"
+        ],
+        "update": {
+            "timestamp": "2026-09-06T13:19:48.561Z",
+            "author": {
+                "id": 1015200,
+                "login": "tas50"
+            }
+        }
     }
 }
