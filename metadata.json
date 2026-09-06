@@ -48613,5 +48613,19 @@
                 "login": "tas50"
             }
         }
+    },
+    "openscap": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "security"
+        ],
+        "update": {
+            "timestamp": "2026-09-06T13:19:41.356Z",
+            "author": {
+                "id": 1015200,
+                "login": "tas50"
+            }
+        }
     }
 }
