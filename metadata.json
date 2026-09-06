@@ -565,19 +565,13 @@
     },
     "netbird": {
         "base": "svg",
-        "aliases": [
-            "VPN"
-        ],
-        "categories": [
-            "VPN",
-            "Networking-Tools",
-            "Security"
-        ],
+        "aliases": [],
+        "categories": [],
         "update": {
-            "timestamp": "2024-02-14T14:55:14Z",
+            "timestamp": "2026-09-06T13:19:24.363Z",
             "author": {
-                "id": 61471128,
-                "name": "deffcolony"
+                "id": 1015200,
+                "login": "tas50"
             }
         }
     },
