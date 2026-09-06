@@ -48421,5 +48421,17 @@
                 "login": "dwfranks"
             }
         }
+    },
+    "vmware-tanzu": {
+        "base": "png",
+        "aliases": [],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-09-06T13:18:57.262Z",
+            "author": {
+                "id": 19541946,
+                "login": "droidrzrlover"
+            }
+        }
     }
 }
