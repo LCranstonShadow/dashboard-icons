@@ -48403,5 +48403,20 @@
                 "login": "paulo-roger"
             }
         }
+    },
+    "herdr": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "utility",
+            "tools"
+        ],
+        "update": {
+            "timestamp": "2026-09-06T13:18:50.094Z",
+            "author": {
+                "id": 49918289,
+                "login": "dwfranks"
+            }
+        }
     }
 }
