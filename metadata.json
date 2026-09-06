@@ -48372,5 +48372,20 @@
                 "login": "clschwab216"
             }
         }
+    },
+    "athenaeus": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-09-06T13:18:45.304Z",
+            "author": {
+                "id": 172323398,
+                "login": "Cbow2018"
+            }
+        },
+        "colors": {
+            "light": "athenaeus-light"
+        }
     }
 }
