@@ -48905,5 +48905,31 @@
                 "login": "methos28"
             }
         }
+    },
+    "stackyard": {
+        "base": "svg",
+        "aliases": [
+            "stackyard dashboard"
+        ],
+        "categories": [
+            "monitoring",
+            "utility",
+            "tools"
+        ],
+        "update": {
+            "timestamp": "2026-09-07T16:02:11.981Z",
+            "author": {
+                "id": 260779319,
+                "login": "SandObserver"
+            }
+        },
+        "colors": {
+            "light": "stackyard-light",
+            "dark": "stackyard-dark"
+        },
+        "wordmark": {
+            "light": "stackyard-wordmark-light",
+            "dark": "stackyard-wordmark-dark"
+        }
     }
 }
