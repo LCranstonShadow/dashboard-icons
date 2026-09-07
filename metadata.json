@@ -48819,5 +48819,21 @@
         "wordmark": {
             "light": "huntresslabs-wordmark-light"
         }
+    },
+    "mem0": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "cloud",
+            "development",
+            "tools"
+        ],
+        "update": {
+            "timestamp": "2026-09-07T16:01:49.122Z",
+            "author": {
+                "id": 24875628,
+                "login": "patrickpingol"
+            }
+        }
     }
 }
