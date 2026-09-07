@@ -48804,5 +48804,20 @@
                 "login": "Tekonsite"
             }
         }
+    },
+    "huntresslabs": {
+        "base": "png",
+        "aliases": [],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-09-07T16:01:46.552Z",
+            "author": {
+                "id": 29351030,
+                "login": "thezoid"
+            }
+        },
+        "wordmark": {
+            "light": "huntresslabs-wordmark-light"
+        }
     }
 }
