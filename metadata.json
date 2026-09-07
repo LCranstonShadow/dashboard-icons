@@ -48946,5 +48946,17 @@
                 "name": "Outbid0928"
             }
         }
+    },
+    "agent-of-empires": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-09-07T16:02:17.111Z",
+            "author": {
+                "id": "s501yik4s4aivz9",
+                "name": "andy_vdg"
+            }
+        }
     }
 }
