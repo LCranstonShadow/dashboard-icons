@@ -48835,5 +48835,17 @@
                 "login": "patrickpingol"
             }
         }
+    },
+    "suite-crm": {
+        "base": "png",
+        "aliases": [],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-09-07T16:01:51.712Z",
+            "author": {
+                "id": 77487911,
+                "login": "BURNI80"
+            }
+        }
     }
 }
