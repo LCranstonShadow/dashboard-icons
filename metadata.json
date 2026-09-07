@@ -48689,5 +48689,23 @@
                 "login": "tas50"
             }
         }
+    },
+    "jellybox": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "media",
+            "storage",
+            "tools",
+            "utility",
+            "entertainment"
+        ],
+        "update": {
+            "timestamp": "2026-09-07T16:01:28.929Z",
+            "author": {
+                "id": 1757017,
+                "login": "avdept"
+            }
+        }
     }
 }
