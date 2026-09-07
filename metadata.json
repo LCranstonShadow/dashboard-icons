@@ -48931,5 +48931,20 @@
             "light": "stackyard-wordmark-light",
             "dark": "stackyard-wordmark-dark"
         }
+    },
+    "haven": {
+        "base": "png",
+        "aliases": [],
+        "categories": [
+            "gaming",
+            "social"
+        ],
+        "update": {
+            "timestamp": "2026-09-07T16:02:14.527Z",
+            "author": {
+                "id": "qe8lst5hzi9xcg9",
+                "name": "Outbid0928"
+            }
+        }
     }
 }
