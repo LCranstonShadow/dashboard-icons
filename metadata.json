@@ -48865,5 +48865,17 @@
             "light": "silo-server-wordmark-light",
             "dark": "silo-server-wordmark-dark"
         }
+    },
+    "sofka": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-09-07T16:02:01.795Z",
+            "author": {
+                "id": 16667519,
+                "login": "dsiluri"
+            }
+        }
     }
 }
