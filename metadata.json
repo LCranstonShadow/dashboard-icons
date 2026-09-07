@@ -48737,5 +48737,31 @@
                 "name": "jkhpobhj"
             }
         }
+    },
+    "swift-dial": {
+        "base": "png",
+        "aliases": [
+            "call management app",
+            "auto dialer app",
+            "lead management app",
+            "telecalling crm software",
+            "call tracking app"
+        ],
+        "categories": [
+            "automation",
+            "monitoring",
+            "security",
+            "network",
+            "database",
+            "cloud",
+            "development"
+        ],
+        "update": {
+            "timestamp": "2026-09-07T16:01:38.130Z",
+            "author": {
+                "id": "mamgb6mg17li2fs",
+                "name": "swift-dial"
+            }
+        }
     }
 }
