@@ -22451,20 +22451,16 @@
         }
     },
     "tdarr": {
-        "base": "png",
-        "aliases": [
-            "video-encoder",
-            "media-converter"
-        ],
+        "base": "svg",
+        "aliases": [],
         "categories": [
-            "Media-Servers",
-            "Developer-Tools"
+            "home-automation"
         ],
         "update": {
-            "timestamp": "2025-01-07T17:54:03Z",
+            "timestamp": "2026-09-07T16:01:54.643Z",
             "author": {
-                "id": 71191962,
-                "name": "walkxcode"
+                "id": 242038372,
+                "login": "sargo22341-prog"
             }
         }
     },
