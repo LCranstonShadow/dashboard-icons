@@ -48843,5 +48843,27 @@
                 "login": "BURNI80"
             }
         }
+    },
+    "silo-server": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "media"
+        ],
+        "update": {
+            "timestamp": "2026-09-07T16:01:59.175Z",
+            "author": {
+                "id": 54472884,
+                "login": "Tatsu941"
+            }
+        },
+        "colors": {
+            "light": "silo-server-light",
+            "dark": "silo-server-dark"
+        },
+        "wordmark": {
+            "light": "silo-server-wordmark-light",
+            "dark": "silo-server-wordmark-dark"
+        }
     }
 }
