@@ -48781,5 +48781,28 @@
                 "login": "rubydotexe"
             }
         }
+    },
+    "fygoos": {
+        "base": "png",
+        "aliases": [
+            "nas",
+            "os"
+        ],
+        "categories": [
+            "storage",
+            "cloud",
+            "network",
+            "security",
+            "media",
+            "entertainment",
+            "home-automation"
+        ],
+        "update": {
+            "timestamp": "2026-09-07T16:01:43.404Z",
+            "author": {
+                "id": 65628838,
+                "login": "Tekonsite"
+            }
+        }
     }
 }
