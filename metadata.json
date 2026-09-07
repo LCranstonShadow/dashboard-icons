@@ -48763,5 +48763,23 @@
                 "name": "swift-dial"
             }
         }
+    },
+    "metamcp": {
+        "base": "png",
+        "aliases": [
+            "metamcp",
+            "meta-mcp"
+        ],
+        "categories": [
+            "development",
+            "automation"
+        ],
+        "update": {
+            "timestamp": "2026-09-07T16:01:40.795Z",
+            "author": {
+                "id": 52940751,
+                "login": "rubydotexe"
+            }
+        }
     }
 }
