@@ -48984,5 +48984,23 @@
                 "login": "xxcbzxx"
             }
         }
+    },
+    "google-password-manager": {
+        "base": "svg",
+        "aliases": [
+            "google-passwords",
+            "chrome-password-manager",
+            "chrome-passwords"
+        ],
+        "categories": [
+            "security"
+        ],
+        "update": {
+            "timestamp": "2026-09-07T16:02:23.573Z",
+            "author": {
+                "id": 14924038,
+                "login": "rpuls"
+            }
+        }
     }
 }
