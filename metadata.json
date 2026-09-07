@@ -48972,5 +48972,17 @@
                 "name": "Will"
             }
         }
+    },
+    "dockerised-n8n": {
+        "base": "png",
+        "aliases": [],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-09-07T16:02:22.579Z",
+            "author": {
+                "id": 3828765,
+                "login": "xxcbzxx"
+            }
+        }
     }
 }
