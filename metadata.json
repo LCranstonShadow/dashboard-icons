@@ -48958,5 +48958,19 @@
                 "name": "andy_vdg"
             }
         }
+    },
+    "keepalived": {
+        "base": "png",
+        "aliases": [],
+        "categories": [
+            "network"
+        ],
+        "update": {
+            "timestamp": "2026-09-07T16:02:19.704Z",
+            "author": {
+                "id": "unwot0a69hpkn6s",
+                "name": "Will"
+            }
+        }
     }
 }
