@@ -48889,5 +48889,21 @@
                 "login": "BURNI80"
             }
         }
+    },
+    "moneymatter": {
+        "base": "svg",
+        "aliases": [
+            "budget-tracker"
+        ],
+        "categories": [
+            "finance"
+        ],
+        "update": {
+            "timestamp": "2026-09-07T16:02:07.390Z",
+            "author": {
+                "id": 25006979,
+                "login": "methos28"
+            }
+        }
     }
 }
