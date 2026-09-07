@@ -48722,5 +48722,20 @@
                 "name": "citr0s"
             }
         }
+    },
+    "supla": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "automation",
+            "home-automation"
+        ],
+        "update": {
+            "timestamp": "2026-09-07T16:01:35.508Z",
+            "author": {
+                "id": "3xpghbhsz6ay28s",
+                "name": "jkhpobhj"
+            }
+        }
     }
 }
