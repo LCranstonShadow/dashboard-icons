@@ -48707,5 +48707,20 @@
                 "login": "avdept"
             }
         }
+    },
+    "shortlistapp": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "automation",
+            "entertainment"
+        ],
+        "update": {
+            "timestamp": "2026-09-07T16:01:32.853Z",
+            "author": {
+                "id": "8a47poi94vlw2dm",
+                "name": "citr0s"
+            }
+        }
     }
 }
